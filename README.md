@@ -11,13 +11,13 @@ Various talks on the ExMatEx project that have been presented to external audien
 The following talks were presented as part of the ExMatEx proxy app Deep Dive session. The
 conference was held in Arlington, Virginia, October 1-3, 2012.
 
-* [Overview of ExMatEx Proxy Applications](https://github.com/downloads/exmatex/presented-talks/ProxyAppDeepDiveInfo.pdf) [PDF], 
+* [Overview of ExMatEx Proxy Applications](https://github.com/downloads/exmatex/presented-talks/ProxyAppDeepDiveIntro.pdf) [PDF], 
 David Richards,  Lawerence Livermore National Laboratory, LLNL-PRES-668212.
 
  **Abstract**:
 
 * [CoDesign Molecular Dynamics (CoMD) Proxy App](https://github.com/downloads/exmatex/presented-talks/CoMD_DeepDive.pdf) [PDF], 
-Jamal Mohd-Yusof,  Los Alamos National Laboratory .
+Jamal Mohd-Yusof,  Los Alamos National Laboratory, LA-UR-12-25066.
 
  **Abstract**:
 
