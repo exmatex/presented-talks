@@ -6,16 +6,37 @@ Various talks on the ExMatEx project that have been presented to external audien
 2012
 ----
 
-### DoE Exascale Research Conference ###
+### DoE/ASCR Exascale Research Conference ###
 
 The following talks were presented as part of the ExMatEx proxy app Deep Dive session. The
 conference was held in Arlington, Virginia, October 1-3, 2012.
 
-* [CoDesign Molecular Dynamics (CoMD) Proxy App](https://github.com/downloads/exmatex/presented-talks/Cloud+X.pdf)[PDF], 
+* [Overview of ExMatEx Proxy Applications](https://github.com/downloads/exmatex/presented-talks/ProxyAppDeepDiveInfo.pdf) [PDF], 
+David Richards,  Lawerence Livermore National Laboratory, LLNL-PRES-668212.
+
+ **Abstract**:
+
+* [CoDesign Molecular Dynamics (CoMD) Proxy App](https://github.com/downloads/exmatex/presented-talks/CoMD_DeepDive.pdf) [PDF], 
 Jamal Mohd-Yusof,  Los Alamos National Laboratory .
 
- This talk described molecular dynamics in general and the specific technical approaches used in the CoMD mini-app.
- Multiple potential functios are described. Finally, preiliminary results of running CoMD through
- the Aspen simulator are presented.
+ **Abstract**:
 
+* [VPFFT: Crystal Viscoplasticity Proxy App Deep Dive](https://github.com/downloads/exmatex/presented-talks/VPFFT_DeepDive.pdf) [PDF], 
+Frankie Li,  Los Alamos National Laboratory, LLNL-PRES-586034.
 
+ **Abstract**:
+
+* [Livermore Unstructured Lagrangian Explicit Shock Hydrodynamics (LULESH) Proxy App](https://github.com/downloads/exmatex/presented-talks/ExMatExLULESH.pdf) [PDF], 
+Jeff Keasler,  Lawerence Livermore National Laboratory, LLNL-PRES-585774.
+
+ **Abstract**:
+
+* [Scale Bridging Deep Dive](https://github.com/downloads/exmatex/presented-talks/scale-bridging-milo-dorr.pdf) [PDF], 
+Milo Dorr,  Lawerence Livermore National Laboratory .
+
+ **Abstract**:
+
+* [Quantifying Model Uncertainty](https://github.com/downloads/exmatex/presented-talks/ProxyAppDeepDiveUQ.pdf) [PDF], 
+James Belak,  Lawerence Livermore National Laboratory, LLNL-PRES-585774.
+
+ **Abstract**:
