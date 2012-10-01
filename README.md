@@ -32,8 +32,9 @@ Frankie Li,  Los Alamos National Laboratory, LLNL-PRES-586034.
 
 
 
-* [Livermore Unstructured Lagrangian Explicit Shock Hydrodynamics (LULESH) Proxy App](https://github.com/downloads/exmatex/presented-talks/ExMatExLULESH.pdf) [PDF], 
-Jeff Keasler,  Lawerence Livermore National Laboratory, LLNL-PRES-585774.
+* Livermore Unstructured Lagrangian Explicit Shock Hydrodynamics (LULESH) Proxy App, 
+Jeff Keasler,  Lawerence Livermore National Laboratory, LLNL-PRES-XXXXXX. Talk will be loaded after it has been
+cleared for external release.
 
 
 
