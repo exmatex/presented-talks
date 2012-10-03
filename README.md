@@ -12,7 +12,7 @@ The following talks were presented as part of the ExMatEx proxy app Deep Dive se
 conference was held in Arlington, Virginia, October 1-3, 2012.
 
 * [Overview of ExMatEx Proxy Applications](https://github.com/downloads/exmatex/presented-talks/ProxyAppDeepDiveIntro.pdf) [PDF], 
-David Richards,  Lawerence Livermore National Laboratory, LLNL-PRES-668212.
+David Richards,  Lawerence Livermore National Laboratory, LLNL-PRES-585773.
 
 
 
@@ -33,7 +33,7 @@ Frankie Li,  Los Alamos National Laboratory, LLNL-PRES-586034.
 
 
 * [Livermore Unstructured Lagrangian Explicit Shock Hydrodynamics (LULESH) Proxy App](https://github.com/downloads/exmatex/presented-talks/ExMatExLULESH.pdf) [PDF], 
-Jeff Keasler,  Lawerence Livermore National Laboratory, LLNL-PRES-586732.
+Jeff Keasler,  Lawerence Livermore National Laboratory, LLNL-PRES-669432.
 
 
 
