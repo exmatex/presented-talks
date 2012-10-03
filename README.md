@@ -38,7 +38,7 @@ Jeff Keasler,  Lawerence Livermore National Laboratory, LLNL-PRES-669432.
 
 
 * [Scale Bridging Deep Dive](https://github.com/downloads/exmatex/presented-talks/scale-bridging-milo-dorr.pdf) [PDF], 
-Milo Dorr,  Lawerence Livermore National Laboratory, LLNL-PRES-586332).
+Milo Dorr,  Lawerence Livermore National Laboratory, LLNL-PRES-586332.
 
 
 
